@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eman Zaki</h1>
-<h3 align="center">A passionate Software Engineer | Back-end Developer</h3>
+<h3 align="center">A Software Engineer | Back-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanzaki&label=Profile%20views&color=0e75b6&style=flat" alt="emanzaki" /> </p>
 
