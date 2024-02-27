@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eman Zaki</h1>
 <h3 align="center">A Software Engineer | Back-end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emanzaki&label=Profile%20views&color=0e75b6&style=flat" alt="emanzaki" /> </p>
-
 - 📫 How to reach me **emanzaki774@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,3 +15,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanzaki&show_icons=true&locale=en&layout=compact" alt="emanzaki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanzaki&" alt="emanzaki" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emanzaki&label=Profile%20views&color=0e75b6&style=flat" alt="emanzaki" /> </p>
+
