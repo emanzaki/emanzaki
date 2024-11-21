@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eman Zaki</h1>
-<h3 align="center">A Software Engineer | Back-end Developer</h3>
+<h3 align="center">A Software Engineer | DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **DevOps Tools**
 
